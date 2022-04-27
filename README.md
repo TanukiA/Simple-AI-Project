@@ -50,7 +50,7 @@ In this program, 2 **classification** and 1 **cluster analysis** are implemented
 - For classification, we perform Binary Classification and Multiclass Classification using Keras Sequential Model. Convolutional Neural Network is used, which is a supervised type of machine learning.
 - For cluster analysis, we choose the K-Means clustering method.
 
-### Binary CLassification
+### Binary Classification
 
 We perform Binary Classification using Keras Sequential Model. Binary Classification predicts categorical variables — where the output is restricted to two classes. We choose this model in order to perform classification on the Decision variable. Decision has 2 possible outcomes, which are "Accept" and "Reject", and they can be represented by 0 and 1.
 - Independent variable: all columns except for Decision
